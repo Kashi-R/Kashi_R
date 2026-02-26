@@ -1,5 +1,5 @@
 <h2 align="center">👑 KASHI</h2>
-<h3 align="center">Hold my hand, I will take your server to handel BILLION of user</h3>
+<h3 align="center">Hold my hand, I will take your server to handle BILLION of user</h3>
 <h3 align="center">Backend Engineer | Spring Ecosystem | Distributed Systems</h3>
 
 ---
