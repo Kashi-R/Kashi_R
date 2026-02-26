@@ -9,26 +9,28 @@
 
   <h3 align="left"> Spring Ecosystem</h3>
   <p><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> <strong>Spring</strong></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat"/><strong>Tomcat embeded with Apache Spring</strong>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Jetty_Logo.png" height="40" alt="Jetty"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven"/>
+
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" /><strong>Tomcat embeded with Apache Spring</strong></p>
+
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Jetty_Logo.png" height="40" /></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" /><strong>Maven</strong></p>
   
 
   <h3 align="left"> Messaging & Caching </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" /><strong>Apache Kafka</strong></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" /><strong>Redis</strong></p>
 
 <h3 align="left"> Testing & Monitoring</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
-  <img src="https://avatars.githubusercontent.com/u/11860887?v=4" height="40" alt="Zipkin"/>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" /><strong>J Unit</strong></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" /><strong>Prometheus</strong></p>
+  <p><img src="https://avatars.githubusercontent.com/u/11860887?v=4" height="40" /><strong>Zipkin</strong></p>
 
   <h3 align="left"> Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/><strong>My SQL</strong></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /><strong>Mongo DB</strong></p>
   
   <h3 align="left"> Security</h3>
-  <img src="https://simpleicons.org/icons/openid.svg" height="40" alt="OAuth2"/>
+  <p><img src="https://simpleicons.org/icons/openid.svg" height="40" /><strong>OAuth 2.0 layered with OpenID</strong></p>
   
   
 
