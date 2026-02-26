@@ -8,7 +8,7 @@
 
 
   <h2 align="left"> Spring Ecosystem</h2>
-  <p><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> <strong>Spring</strong></p>
+  <p><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"  height="40"/> <strong>Spring & Spring Boot</strong></p>
 
   <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" /><strong>Tomcat embeded with Apache Spring</strong></p>
 
@@ -43,11 +43,11 @@
 🔹 Spring & Spring Boot  
 🔹 REST API Design  
 🔹 Microservices Architecture  
-🔹 Event-Driven Systems (Kafka)  
-🔹 Distributed Tracing (Zipkin)  
-🔹 Metrics Monitoring (Prometheus)  
-🔹 Authentication & Authorization (OAuth2)  
-🔹 Unit & Integration Testing (JUnit)
+🔹 Event-Driven Systems   
+🔹 Distributed Tracing   
+🔹 Metrics Monitoring     
+🔹 Authentication & Authorization    
+🔹 Unit & Integration Testing   
 
 ---
 
