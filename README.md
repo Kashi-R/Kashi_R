@@ -4,17 +4,35 @@
 
 ---
 
-### 🧠 Backend Expertise
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring-Boot-brightgreen"/>
-  <img src="https://img.shields.io/badge/Apache-Tomcat-yellow"/>
-  <img src="https://img.shields.io/badge/Maven-Build-red"/>
-  <img src="https://img.shields.io/badge/Kafka-Streaming-black"/>
-  <img src="https://img.shields.io/badge/Redis-Caching-critical"/>
-  <img src="https://img.shields.io/badge/OAuth2-Security-blue"/>
-  <img src="https://img.shields.io/badge/Zipkin-Tracing-orange"/>
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-important"/>
+  <!-- Spring Ecosystem -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="Tomcat"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="60" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetty/jetty-original.svg" height="60" alt="Jetty"/>
+
+  <!-- Messaging & Cache -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="Redis"/>
+
+  <!-- Testing & Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="60" alt="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60" alt="Prometheus"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
+  
+  <!-- Security -->
+  <img src="https://simpleicons.org/icons/openid.svg" height="60" alt="OAuth2"/>
+  <img src="https://zipkin.io/public/img/logo_zipkin.png" height="60" alt="Zipkin"/>
+</p>
+
+<p align="center">
+  <!-- Vector DB (Example: Pinecone) -->
+  <img src="https://cdn.simpleicons.org/pinecone" height="60" alt="Vector Database"/>
 </p>
 
 ---
